@@ -1,2 +1,0 @@
-# Simetra
-Simetra
